@@ -15,16 +15,6 @@ The repository contains the list of awesome✨ &amp; cool web development beginn
 <a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
 <br>
 <br>
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ayushparikh-code/Web-dev-mini-projects?color=brightgreen"></a>
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/stargazers"><img src="https://img.shields.io/github/stars/Ayushparikh-code/Web-dev-mini-projects?color=0059b3"></a>
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/network/members"><img src="https://img.shields.io/github/forks/Ayushparikh-code/Web-dev-mini-projects?color=yellow"></a>
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/issues"><img src="https://img.shields.io/github/issues/Ayushparikh-code/Web-dev-mini-projects?color=0059b3"></a>
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Ayushparikh-code/Web-dev-mini-projects?color=yellow"></a>
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/pulls"><img src="https://img.shields.io/github/issues-pr/Ayushparikh-code/Web-dev-mini-projects?color=brightgreen"></a>
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Ayushparikh-code/Web-dev-mini-projects?color=0059b3"></a> 
-
-</div>
-<div align="center">
 
 
  
